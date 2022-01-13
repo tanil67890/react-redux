@@ -1,0 +1,23 @@
+.recipe-container{
+    padding: 100px 100px;
+}
+
+.addRecipe{
+    padding: 12px 20px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 40px;
+    background-color: rgba(102,187,106,255);
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.favItems{
+    display: flex;
+}
+
+.favItems img{
+    height: 200px;
+    width: 200px;
+}

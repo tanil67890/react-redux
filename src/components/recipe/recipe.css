@@ -1,0 +1,49 @@
+.recipe{
+    border: 1px solid black;
+    display: flex;
+    width: 70%;
+    border-radius: 5px;
+    margin: 0px 0px 60px 0px;
+    background-color: white;
+}
+
+.left-side{
+    border-right: 1px solid gray;
+    padding: 1px 12px;
+    display: flex;
+    align-items: center;
+}
+
+.left-side img{
+    height: 200px;
+    width: 200px;
+}
+
+.mid-side{
+    padding: 0px 30px;
+}
+
+.mid-side button{
+    padding: 9px 12px;
+    border-radius: 5px;
+    background-color: rgba(255,193,7,255);
+    margin-bottom: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+}
+
+.right-side{
+    padding-right: 12px;
+    padding-top: 20px;
+}
+
+.right-side button{
+    font-weight: bold;
+    background-color: tomato;
+    border: none;
+    padding: 5px 11px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}

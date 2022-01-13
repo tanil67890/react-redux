@@ -1,0 +1,10 @@
+.header{
+    font-family: 'Lobster';
+    width: 100%;
+    border:1px solid black;
+    background: rgb(206, 92, 92);
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
